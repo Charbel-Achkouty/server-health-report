@@ -1,0 +1,10 @@
+{"servers": [
+  {"name": "srv-01", "cpu": 91, "status": "up"},
+  {"name": "srv-02", "cpu": 35, "status": "up"},
+  {"name": "db-01",  "cpu": 78, "status": "down"},
+  {"name": "db-03",  "cpu": "high", "status": "down"},
+  {"name": "db-02",  "status": "down"},
+  {"name": "web-01", "cpu": 80, "status": "up"},
+  {"name": "web-02", "cpu": 81, "status": "up"},
+  {"name": "web-03", "cpu": 70, "status": "up"}
+]}
